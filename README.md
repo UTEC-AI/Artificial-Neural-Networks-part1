@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/UTEC-AI/Artificial-Neural-Networks-part1/master/utecai_large.png">
+</p>
+
+
 # Artifical Neural Networks [part 1]
 First class of our course of artificial neural networks
 
