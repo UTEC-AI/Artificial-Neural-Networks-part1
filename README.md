@@ -5,6 +5,12 @@
 
 # Artifical Neural Networks [part 1]
 First class of our course of artificial neural networks
+Perceptronv1_41cromosomas.ipynb	
+
+## Implementation [Updated at Jun 17]
+You can see our implementation below...
+[Perceptronv1_41cromosomas.ipynb](Perceptronv1_41cromosomas.ipynb)
+
 
 ## Slides [Updated at Apr 28]
 You can see our slides in...
